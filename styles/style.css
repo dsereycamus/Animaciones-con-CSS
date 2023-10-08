@@ -64,7 +64,8 @@ html{
 .navbar__item__text {
   color: white;
   text-align: center;
-  padding: 0 15px;
+  /* padding: 0 15px; */
+  padding-top: 30px;
 }
 .navbar__link {
   color: white;
