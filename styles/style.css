@@ -81,8 +81,7 @@ html{
 /* SECCIÓN HEADER */
 .header-section {
   grid-area: header;
-  background-color:#bfbfbf;
-  color: white;
+  background:url(../assets/img/fondo1.jpg);
   display: flex;
   flex-direction: column;
   align-items: center;
